@@ -1,0 +1,49 @@
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 150px;
+    height: 160px;
+
+    margin-bottom:20px;
+
+}
+.caption {
+    display: block;
+    color:white;
+}
+
+.captiont {
+    display: block;
+    color:white;
+}
+
+.cap{
+  color: white;
+
+}
+
+.capt{
+  color:white;
+
+}
+.captin{
+  color:white;
+}
+div.itemt {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+h1{
+  font-family: 'Jacques Francois Shadow';
+  color: Blue;
+}
+body{
+  background-image: url("https://wallpapercave.com/wp/wp1889915.jpg");
+}
